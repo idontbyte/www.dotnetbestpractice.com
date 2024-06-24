@@ -11,5 +11,4 @@
 - Install Jeckyll ```gem install jekyll```
   
 ## Run site locally:
-```cd docs```
 ```bundle exec jekyll serve```
