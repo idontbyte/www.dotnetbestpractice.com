@@ -12,3 +12,6 @@
   
 ## Run site locally:
 ```bundle exec jekyll serve```
+
+## Jekyll theme - Just the docs
+Documentation https://just-the-docs.com/
